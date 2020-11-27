@@ -1,4 +1,1 @@
-这是一个配置文件
-https://github.com/CodeML/MLReaderConfig/blob/master/config.txt
-"dsadsa"
-"LC1""
+|JsonS|{"name": "John Doe", "age": 18, "address": {"country" : "china", "number": "10000"}}|JsonE|
