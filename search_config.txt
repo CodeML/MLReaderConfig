@@ -1,1 +1,0 @@
-|JsonS|{"encoding":"utf8","get_infoS":"<tr>","get_infoE":"</tr>","info_separ":"<tr>","read_urlS":"<a href=\"","read_urlE":"\">","book_nameS":"\">","book_nameE":"</a>","authorS":"odd\">","authorE":"</td>"}|JsonE|

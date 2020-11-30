@@ -1,1 +1,0 @@
-|JsonS|{"get_infoS":"<dl>","get_infoE":"</dd>","info_separ":"</dd>","urlS":"=\"","urlE":"\"","titleS":">","titleE":"","delS":"<a href","delE":"</a>"}|JsonE|
