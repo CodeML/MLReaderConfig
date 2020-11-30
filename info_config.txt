@@ -1,0 +1,1 @@
+|JsonS|{"get_infoS":"<meta property=","get_infoE":"<link","info_separ":"<meta property=","remove":["\"og:novel:","\"og:","\" />","\n","&nbsp;","<br />","\"/>","<br/>"],"info_sub_separ":"\" content=\""}|JsonE|
